@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn-link {
+    @apply text-accent text-xl lg:text-2xl;
+  }
